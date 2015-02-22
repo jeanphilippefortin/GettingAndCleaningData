@@ -20,4 +20,4 @@
 - File is then written to disk with row.name=FALSE
 
 # Resulting file
-The new file contains a tidy data set with the subject, activity and mean of all the features.
+The new file, tidy.txt, contains a tidy data set with the subject, activity and mean of all the features.
