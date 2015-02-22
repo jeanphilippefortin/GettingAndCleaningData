@@ -1,4 +1,4 @@
-# GettingAndCleaningData
+# Getting And Cleaning Data
 Course project from Getting and Cleaning data on Coursera, February 2015
 
 Scripts authored by Jean-Philippe Fortin
